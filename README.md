@@ -13,6 +13,8 @@ Perfectionism does not help much - you can't make everything 100% perfect. Time 
 $ x 40 = paycheck. That's wrong! It's SKILL x TIME = income.  
 Become the best in the world at something, anything. And you'll experience it. Think of your gifts, talents, and go for it. This may help you a bit on the journey: [https://selfauthoring.com/self-authoring-suite-2-for-1-special](https://selfauthoring.com/self-authoring-suite-2-for-1-special) (I am working on Past authoring for now, I know the exercise is amazing!)
 
+![Skils (draft)](https://raw.githubusercontent.com/PauliusMacernis/pauliusmacernis.github.io/main/dunning-kruger--effect.png "Skills (draft)")
+
 - **Assets**  
 Striving for lots of money, code, or whatever - pointless. In case you do not agree - you'll eventually stop by yourself after the stage of burnout will come. Invest your energy in obtaining/creating assets - energy/wealth-generating "machines", and not just writing lines of code and buying stuff after each salary.  
 
@@ -31,5 +33,7 @@ Even if it's very very uncomfortable, do #seekdiscomfort. The purpose of the tru
 But I know what's important. Life-long learning does not scare me, I enjoy the process.  
 
 ### The process
+
+
 
 TBD
