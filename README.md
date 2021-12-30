@@ -6,7 +6,7 @@ Relatability - unlocks potential.
 Being able to relate to others is the best gift I have unpacked in this world so far. Products start to sell, ideas start to flow, rivers and trees start to teach.
 
 - **Balance**  
-Health, Career/Skills/Materialism, Family. Health, Career/Skills/Materialism. Black, White.  
+Health-Career/Skills/Materialism-Family, Health-Career/Skills/Materialism, Black-White.  
 Perfectionism does not help much - you can't make everything 100% perfect. Time is limited, money - limited, Earth resources - limited. There are boundaries everywhere and overtaking anything by 100% is too selfish. I know it, I have tested it in various ways, including this way: [https://github.com/PauliusMacernis/WorldSimulation](https://github.com/PauliusMacernis/WorldSimulation)  
 
 - **Skills**  
