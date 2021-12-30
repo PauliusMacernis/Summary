@@ -20,7 +20,7 @@ Striving for lots of money, code, or whatever - pointless. In case you do not ag
 Things you put into one place have the property of easily disappearing. Things you place all over - has the property of staying for much longer. The decision is simple, it is - store things you want to lose in one pocket, and store things you want to save in as many pockets as you are able to. Less (in one pocket) is more (in general).  
 
 - **Cultural memory**  
-In case you die, you are dead. Your skills, IQ level, electronics, cars, houses, - all of that - you lose it all. A person who had a near-death experience may confirm this, I know. Therefore, investing into the memory of others is much more sustainable compared to investing into your own head.  
+In case you die, you are dead. Your skills, IQ level, electronics, cars, houses, - all of that - you lose it all. A person who had a near-death experience may confirm this, I know. Therefore, investing into the memory of others is much more sustainable compared to investing into your own head. The universal causal law by which good or bad actions determine the future modes of an individual's existence will tell if that's wrong.  
 
 - **Say truth**  
 Even if it's very very uncomfortable, do #seekdiscomfort. The purpose of the truth is to liberate - to release the tension. Tension accumulates in the circumstances where the truth is meant to be flowing but it is held for a reason of the attachments to the fixed image of the past. Release it, the reality is changing, be it once in two weeks, be it imperfect, but be honest and release the accumulated.  
