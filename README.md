@@ -17,7 +17,7 @@ Become the best in the world at something, anything. And you'll experience it. T
 Striving for lots of money, code, or whatever - pointless. In case you do not agree - you'll eventually stop by yourself after the stage of burnout will come. Invest your energy in obtaining/creating assets - energy/wealth-generating "machines", and not just writing lines of code and buying stuff after each salary.  
 
 - **Diversification**  
-Things you put into one place have the property of easily disappearing. Things you place all over - has the property of staying for much longer. The decision is simple, it is - store things you want to lose in one pocket, and store things you want to save in as many pockets as you are able to. Less (in one pocket) is more.  
+Things you put into one place have the property of easily disappearing. Things you place all over - has the property of staying for much longer. The decision is simple, it is - store things you want to lose in one pocket, and store things you want to save in as many pockets as you are able to. Less (in one pocket) is more (in general).  
 
 - **Cultural memory**  
 In case you die, you are dead. Your skills, IQ level, electronics, cars, houses, - all of that - you lose it all. A person who had a near-death experience may confirm this, I know. Therefore, investing into the memory of others is much more sustainable compared to investing into your own head.  
