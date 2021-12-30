@@ -24,3 +24,8 @@ In case you die, you are dead. Your skills, IQ level, electronics, cars, houses,
 
 - **Say truth**
 Even if it's very very uncomfortable, do #seekdiscomfort. The purpose of the truth is to liberate - to release the tension. Tension accumulates in the circumstances where the truth is meant to be flowing but it is held for a reason of the attachments to the fixed image of the past. Release it, the reality is changing, be it once in two weeks, be it imperfect, but be honest and release the accumulated.  
+
+
+## I am not perfect. 
+
+But I know what's important for me. Life-long learning does not scare me, I enjoy the process.  
