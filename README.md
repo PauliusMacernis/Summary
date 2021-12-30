@@ -28,4 +28,8 @@ Even if it's very very uncomfortable, do #seekdiscomfort. The purpose of the tru
 
 ## I am not perfect. 
 
-But I know what's important for me. Life-long learning does not scare me, I enjoy the process.  
+But I know what's important. Life-long learning does not scare me, I enjoy the process.  
+
+### The process
+
+TBD
