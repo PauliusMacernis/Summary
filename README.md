@@ -22,7 +22,7 @@ Things you put into one place have the property of easily disappearing. Things y
 - **Cultural memory**  
 In case you die, you are dead. Your skills, IQ level, electronics, cars, houses, - all of that - you lose it all. A person who had a near-death experience may confirm this, I know. Therefore, investing into the memory of others is much more sustainable compared to investing into your own head.  
 
-- **Say truth**
+- **Say truth**  
 Even if it's very very uncomfortable, do #seekdiscomfort. The purpose of the truth is to liberate - to release the tension. Tension accumulates in the circumstances where the truth is meant to be flowing but it is held for a reason of the attachments to the fixed image of the past. Release it, the reality is changing, be it once in two weeks, be it imperfect, but be honest and release the accumulated.  
 
 
