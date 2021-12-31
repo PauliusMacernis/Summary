@@ -27,6 +27,12 @@ In case you die, you are dead. Your skills, IQ level, electronics, cars, houses,
 - **Say truth**  
 Even if it's very very uncomfortable, do #seekdiscomfort. The purpose of the truth is to liberate - to release the tension. Tension accumulates in the circumstances where the truth is meant to be flowing but it is held for a reason of the attachments to the fixed image of the past. Release it, the reality is changing, be it once in two weeks, be it imperfect, but be honest and release the accumulated.  
 
+- **Consistency**
+Or, as ITILv4 and many other methodologies put it - continuous improvement. Step by step. Small steps makes a great journey possible. Daily exercising, meditation, steps, cold shower, a page of the same book or whatever else. A good daily habit makes an atomically huge impact in the long run. 
+
+- **Agreement**  
+The most difficult part in the current world is to agree on a one specific thing and stick to it no matter what. You may think you control yourself by 100%, but you have weeknesses too. So you will definatelly (sorry for saying so..) break from time to time. When it comes to two or more people trying to agree on something, really anything - that's tough, and I do sometimes thing that such really long-term agreements are even close to impossible to have. Agreements relay on fostering motivation for the self and others, otherwise keeping up with the agreement is not happening well enough.
+
 
 ## I am not perfect. 
 
