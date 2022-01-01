@@ -10,9 +10,9 @@ Relatability - unlocks potential.
 "They have described the creation of their art as a healing process intended to increase relatability and connection to each other and the world around them.", - https://dictionary.cambridge.org/dictionary/english/relatability  
 Being able to relate to others is the best gift I have unpacked in this world so far. Products start to sell, ideas start to flow, rivers and trees start to teach.  
 
-  - **Skills**  
+  - **Knowledge, skills, tools, and techniques**  
 $ x 40 = paycheck. That's wrong! It's SKILL x TIME = income.  
-Become the best in the world at something, anything. And you'll experience it. Think of your gifts, talents, and go for it. This may help you a bit on the journey: [https://selfauthoring.com/self-authoring-suite-2-for-1-special](https://selfauthoring.com/self-authoring-suite-2-for-1-special) (I am working on Past authoring for now, I know the exercise is amazing!). Just work towards finding out what are your talents, and build the skillset around these. As PMBOK states: knowledge, skills, tools, and techniques play the crucial role towards the success of any project (including the life project, I would add).  
+Become the best in the world at something, anything. And you'll experience it. Think of your gifts, talents, and go for it. This may help you a bit on the journey: [https://selfauthoring.com/self-authoring-suite-2-for-1-special](https://selfauthoring.com/self-authoring-suite-2-for-1-special) (I am working on Past authoring for now, I know the exercise is amazing!). Just work towards finding out what are your talents, and build the skillset around these. As PMBOK states: knowledge, skills, tools, and techniques play the crucial role towards the success of any project (including the life project, I would add).   
 
 ![Skils (draft)](https://raw.githubusercontent.com/PauliusMacernis/pauliusmacernis.github.io/main/dunning-kruger--effect.png "Skills (draft)")
 
