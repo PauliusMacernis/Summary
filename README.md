@@ -39,7 +39,7 @@ The most difficult part in the current world is to agree on a one specific thing
 Ideas make no difference, a very strong idea called vision - makes the difference by fostering motivation of all. However, even with a very clear vision nothing happens if nothing gets done. Getting dirty for real is the part of success. You may not be perfect, but getting into doing something makes real progress - builds the reality for real.  
 
 - **Minimalism**  
-Leave experiences in other memories, not just things you have bought. Leaving things after yourself someone have to take care of unwillingly is disrespect. We respect people and therefore having much of anything not in use is a waste of resources in general.  
+Leave experiences in other memories, not just things you have bought. Leaving things after yourself someone have to take care of unwillingly is disrespect. We respect people and therefore having much of anything not in use is a waste of resources in general. For the things, if the item can be replaced in 20 minutes for less than $20, it’s probably not worth keeping around.  
 
 - **Rest**  
 A pause is the essential part of a music, play. Learn to stop just before burnout happens.  
