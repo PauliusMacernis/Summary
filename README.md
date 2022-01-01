@@ -2,10 +2,19 @@
 
 ## Core values
 
-- **Relatability**  
+- **Consistency**  
+Or, as ITILv4 and many other methodologies put it - continuous improvement. Step by step. Small steps makes a great journey possible. Daily exercising, meditation, steps, cold shower, a page of the same book or whatever else. A good daily habit makes an atomically huge impact in the long run. “Which wolf will win?” The old Cherokee simply replied, “The one you feed.”  
+
+  - **Relatability**  
 Relatability - unlocks potential.  
 "They have described the creation of their art as a healing process intended to increase relatability and connection to each other and the world around them.", - https://dictionary.cambridge.org/dictionary/english/relatability  
-Being able to relate to others is the best gift I have unpacked in this world so far. Products start to sell, ideas start to flow, rivers and trees start to teach.
+Being able to relate to others is the best gift I have unpacked in this world so far. Products start to sell, ideas start to flow, rivers and trees start to teach.  
+
+  - **Skills**  
+$ x 40 = paycheck. That's wrong! It's SKILL x TIME = income.  
+Become the best in the world at something, anything. And you'll experience it. Think of your gifts, talents, and go for it. This may help you a bit on the journey: [https://selfauthoring.com/self-authoring-suite-2-for-1-special](https://selfauthoring.com/self-authoring-suite-2-for-1-special) (I am working on Past authoring for now, I know the exercise is amazing!). Just work towards finding out what are your talents, and build the skillset around these. As PMBOK states: knowledge, skills, tools, and techniques play the crucial role towards the success of any project (including the life project, I would add).  
+
+![Skils (draft)](https://raw.githubusercontent.com/PauliusMacernis/pauliusmacernis.github.io/main/dunning-kruger--effect.png "Skills (draft)")
 
 - **Balance**  
 Health-Career/Skills/Materialism-Family, Health-Career/Skills/Materialism, Black-White.  
@@ -23,12 +32,6 @@ Leave experiences in other memories, not just things you have bought. Leaving th
   - **Mindfulness**  
 Thinking about the future and envisioning it is ok. But there is no happy life if you don't live in the moment: see, hear, taste, feel... here and now. This includes avoiding checking the phone while in the meeting, skipping tv while eating, turning off the radio while thinking.  Sure, mindfulness is required. However, don't go too far - we don't want to experience so called sensory overload.  
 
-- **Skills**  
-$ x 40 = paycheck. That's wrong! It's SKILL x TIME = income.  
-Become the best in the world at something, anything. And you'll experience it. Think of your gifts, talents, and go for it. This may help you a bit on the journey: [https://selfauthoring.com/self-authoring-suite-2-for-1-special](https://selfauthoring.com/self-authoring-suite-2-for-1-special) (I am working on Past authoring for now, I know the exercise is amazing!)
-
-![Skils (draft)](https://raw.githubusercontent.com/PauliusMacernis/pauliusmacernis.github.io/main/dunning-kruger--effect.png "Skills (draft)")
-
 - **Assets**  
 Striving for lots of money, code, or whatever - pointless. In case you do not agree - you'll eventually stop by yourself after the stage of burnout will come. Invest your energy in obtaining/creating assets - energy/wealth-generating "machines", and not just writing lines of code and buying stuff after each salary.  
 
@@ -40,9 +43,6 @@ In case you die, you are dead. Your skills, IQ level, electronics, cars, houses,
 
 - **Say truth**  
 Even if it's very very uncomfortable, do #seekdiscomfort. The purpose of the truth is to liberate - to release the tension. Tension accumulates in the circumstances where the truth is meant to be flowing but it is held for a reason of the attachments to the fixed image of the past. Release it, the reality is changing, be it once in two weeks, be it imperfect, but be honest and release the accumulated.  
-
-- **Consistency**  
-Or, as ITILv4 and many other methodologies put it - continuous improvement. Step by step. Small steps makes a great journey possible. Daily exercising, meditation, steps, cold shower, a page of the same book or whatever else. A good daily habit makes an atomically huge impact in the long run. 
 
 - **Agreement**  
 The most difficult part in the current world is to agree on a one specific thing and stick to it no matter what. You may think you control yourself by 100%, but you have weeknesses too. So you will definatelly (sorry for saying so..) break from time to time. When it comes to two or more people trying to agree on something, really anything - that's tough, and I do sometimes thing that such really long-term agreements are even close to impossible to have. Agreements relay on fostering motivation for the self and others, otherwise keeping up with the agreement is not happening well enough.  
