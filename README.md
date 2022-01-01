@@ -1,5 +1,7 @@
 # What's important?
 
+## Core
+
 - **Relatability**  
 Relatability - unlocks potential.  
 "They have described the creation of their art as a healing process intended to increase relatability and connection to each other and the world around them.", - https://dictionary.cambridge.org/dictionary/english/relatability  
@@ -27,11 +29,33 @@ In case you die, you are dead. Your skills, IQ level, electronics, cars, houses,
 - **Say truth**  
 Even if it's very very uncomfortable, do #seekdiscomfort. The purpose of the truth is to liberate - to release the tension. Tension accumulates in the circumstances where the truth is meant to be flowing but it is held for a reason of the attachments to the fixed image of the past. Release it, the reality is changing, be it once in two weeks, be it imperfect, but be honest and release the accumulated.  
 
-- **Consistency**
+- **Consistency**  
 Or, as ITILv4 and many other methodologies put it - continuous improvement. Step by step. Small steps makes a great journey possible. Daily exercising, meditation, steps, cold shower, a page of the same book or whatever else. A good daily habit makes an atomically huge impact in the long run. 
 
 - **Agreement**  
 The most difficult part in the current world is to agree on a one specific thing and stick to it no matter what. You may think you control yourself by 100%, but you have weeknesses too. So you will definatelly (sorry for saying so..) break from time to time. When it comes to two or more people trying to agree on something, really anything - that's tough, and I do sometimes thing that such really long-term agreements are even close to impossible to have. Agreements relay on fostering motivation for the self and others, otherwise keeping up with the agreement is not happening well enough.
+
+- **Vision**  
+Ideas make no difference, a very strong idea called vision - makes the difference by fostering motivation of all. However, even with a very clear vision nothing happens if nothing gets done. Getting dirty for real is the part of success. You may not be perfect, but getting into doing something makes real progress - builds the reality for real.  
+
+- **Minimalism**  
+Leave experiences in other memories, not just things you have bought. Leaving things after yourself someone have to take care of unwillingly is disrespect. We respect people and therefore having much of anything not in use is a waste of resources in general.  
+
+- **Rest**  
+A pause is the essential part of a music, play. Learn to stop just before burnout happens.  
+
+- **Mindfulness**  
+Thinking about the future and envisioning it is ok. But there is no happy life if you don't live in the moment: see, hear, taste, feel... here and now. This includes avoiding checking the phone while in the meeting, skipping tv while eating, turning off the radio while thinking.  
+
+- **Acceptance**  
+You should believe in others. Even if they lie. Good listening with following arguments in the form of amaizing questions will make the truth prosper.  
+
+- **Demo**  
+Demo is important for others and for the self in order to invest further. Wanna buy a house in the forest? Try to live in such a reasonable demo period of your life. Wanna move out and establish a life abroad? Try working and living there for a while. Wanna show the product? Proof of concept as a demo is important too. Wanna buy this stuff for the credit? Try to arange the monthly payment for yourself for a demo period of time. Wanna pet? Try getting up a few times a day and get outside for a walk, rent one for a while, just do a demo. Sometimes a demo is enough. Some startups say 9 demos out of 10 results in failure in the long term. That's why we need demo so much.  
+
+- **Thanks**  
+Appreciation is important. That's the easiest thing you may give, it's a never ending resource you could possess over your lifetime. Sure, you have to be truthful and honest, otherwise that's just a "thank you" without the real meaning. It's sometimes easy, and sometimes very hard to trully appreciate a person, a pattern, or whatever else. However, that's just a challenge we face everyday - how to appreciate the mater in the life. Training everyday makes appreciation easier, and the life becomes more and more positive in general.   
+
 
 
 ## I am not perfect. 
