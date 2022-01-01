@@ -1,6 +1,6 @@
 # What's important?
 
-## Core
+## Core values
 
 - **Relatability**  
 Relatability - unlocks potential.  
@@ -62,7 +62,7 @@ Appreciation is important. That's the easiest thing you may give, it's a never e
 
 But I know what's important. Life-long learning does not scare me, I enjoy the process.  
 
-### The process
+## The process
 
 
 
