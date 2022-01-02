@@ -20,7 +20,7 @@ Striving for lots of money, code, or whatever - pointless. In case you do not ag
 
     - **Priority**  
     Let's start our day from Urgent and Important tasks (3-5 hours / day during the most productive time of our individual clock, that's our "green zone"), then - Important but not urgent (a few hours during the period of us being in the "yellow zone").  
-    What's left? Urgent but not important - these should be dedicated to others. Not urgent and not important - be brave enough to let yourself to forget about these. Yes, that's backed by The Eisenhower Matrix and the book "At Your Best" by Carey Nieuwhof. We should work on cultivating our gifts, passion, talents, taking tasks with biggest impact first.
+    What's left? Urgent but not important - these should be dedicated to others. Not urgent and not important - be brave enough to let yourself to forget about these. Yes, that's backed by The Eisenhower Matrix and the book "At Your Best" by Carey Nieuwhof. We should work on cultivating our gifts, passion, talents, taking tasks with biggest impact first. Work on the priorities, vacuum gets filled anyways.  
     
 
   - **Cultural memory**  
