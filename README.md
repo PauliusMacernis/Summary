@@ -43,7 +43,7 @@ Health-Career/Skills/Materialism-Family, Health-Career/Skills/Materialism, Black
 Perfectionism does not help much - you can't make everything 100% perfect. Time is limited, money - limited, Earth resources - limited. There are boundaries everywhere and overtaking anything by 100% is too selfish. I know it, I have tested it in various ways, including this way [https://github.com/PauliusMacernis/WorldSimulation](https://github.com/PauliusMacernis/WorldSimulation)  
 
   - **Rest**  
-A pause is the essential part of a music, play. Learn to stop just before burnout happens. Balance the load. You can't slow down the brain, but you can distract it.      
+A pause is the essential part of a music, play. Learn to stop just before burnout happens. Balance the load. (You can't slow down the brain, but you can distract it.)      
 
   - **Vision**  
 Ideas make no difference, a very strong idea called vision - makes the difference by fostering motivation for all. However, even with a very clear vision nothing happens if nothing gets done. Getting dirty for real is the part of success. You may not be perfect, but getting into doing something makes real progress - builds the reality for real. Balance between receiving and sending sparking thoughts.  
