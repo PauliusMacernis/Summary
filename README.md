@@ -58,7 +58,7 @@ Thinking about the future and envisioning it is ok. But there is no happy life i
 Things you put into one place have the property of easily disappearing. Things you place all over - has the property of staying for much longer. The decision is simple, it is - store things you want to lose in one pocket, and store things you want to save in as many pockets as you are able to. Less (in one pocket) is more (in general). Balance between winning good and losing bad.   
 
   - **Acceptance**  
-You should accept others. Even if they lie. Reciprocity is not the one and only social norm to respond. Good listening with following arguments in the form of amazing questions will make the truth prosper on both sides. But do balance between "I know" and "I don't know". You simply don't know what you don't know.  
+You should accept others. Even if they lie. Reciprocity is not the one and only social norm of responding to an action. Good listening with following arguments in the form of amazing questions will make the truth prosper on both sides. But do balance between "I know" and "I don't know". You simply don't know what you don't know.  
 
 
 
