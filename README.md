@@ -1,6 +1,6 @@
 # What's important?
 
-There is nothing so stable as change. Therefore, don't expect the following or any other statements to stay 100% truth as words progress over the time. The following text is more of a self-reflection, past evaluation, future projection, the rules for own life, ... , but it's never truth by entire 100%.  
+There is nothing so stable as change. Therefore, don't expect the following or any other statements to stay 100% truth as meanings progress over the time. The following text is more of a self-reflection, past evaluation, future projection, the rules for own life, ... , but it's never truth by entire 100%.  
 
 ## Core values
 
