@@ -1,8 +1,14 @@
 # What's important?
 
-There is nothing so stable as change. Therefore, don't expect the following or any other statements to stay 100% truth as meanings progress over the time. The following text is more of a self-reflection, past evaluation, future projection, the rules for own life, ... , but it's never truth by the entire 100% because I am a subject to the so stable and never ending change too.  
+There is nothing so stable as change. Therefore, don't expect the following or any other statements to stay 100% truth as meanings progress over the time. The following text is more of a self-reflection, past evaluation, future projection, the rules for my own life, ... , but it's never true by the entire 100% because I am a subject to the so stable and never ending change too.  
 
 ## Core values
+
+There are two core values in general - consistency, balance. The rest is sub-values, sub-sub-values, etc.  
+I do admire patterns in the various forms of nature and after observing the two basic patterns I conclude the balance to be a property of an adulthood, and the consistency to be a property of a prmaturity. In short, if something is 100% stable, be sure to fail some time in the future or the past. Even if that's a very niche case to be failing on, it's a failure anyways. Therefore, the attitude of the one dealing with stability is more important than stability itself. If a person denies the chance of mistake then the person is wrong or the person is in the "bubble of a context" which is wrong (which is even worse because it's a subject to a normalcy bias change in a bigger scale which in turn is a subject to the instability of the mentality on the broader scale).  
+  
+And yes, treating the change to be the most stable act/pattern of all we know does not mean it's ultimately stable. It may be there is something even more stable than the change act/pattern itself. If you allow your mind to go that far into the recursion (the rabbit hole, if you wish..) then you may finally find yourself facing a supernatural being which is more stable than the change act itself. If change is the ultimate stability of our nature then it's probably ok to believe this supernatural being is the parent of our nature. Feel free to discuss the topic of a parent/prototype/alike with me.  
+
 
 - **Consistency**  
 Or, as ITILv4 and many other methodologies put it - continuous improvement. Step by step. Small steps make a great journey possible. Daily exercising, meditation, steps, cold showering, a page of the same book or whatever else. A good daily habit makes an atomically huge impact in the long run. “Which wolf will win?” The old Cherokee simply replied, “The one you feed.”  
