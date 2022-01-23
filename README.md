@@ -25,7 +25,7 @@ And the answer is - not really. I need just a "win" I may exchange with the part
 It's a paradox we get into here - the more you are afraid of something in life the more universal "win" you want to ask for in return.  
 In other words, the lack of confidence generates the wish for a society-wide recognition of wealth.  
 
-The question is - what am I afraid of in life?  
+The question is - what am I afraid of in life (because I do want recognision for some reason, to be honest...)?  
 It's a hard question again due to the nature of our being - I am a body, a mind, a soul. Fear is a cross-layer phenomenon.  
 
 However, if I define and finally conquer the fears I have in each of the layers then I start to act with no need to receive the universal "win" back.
