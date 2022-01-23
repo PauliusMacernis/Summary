@@ -71,4 +71,4 @@ Which means one thing - getting rid of the fears I don't feel I wish to belong t
 Actually, I do already see some of the fears are inevitable to face. Even if these willingly define me now.  
 This simply means that life is gonna change a lot one day. Who knows when. May be today. This way donation of material would happen once and immediately.  
 
-Therefore, we have the privilege to be able to donate.  
+Therefore, being able to donate is the privilege of this life.  
