@@ -62,5 +62,5 @@ The only wish I have with some of the fears I have - to evolute with these.
 It seems some fears are simply the extension of who I am and want to be (and I don't mind to keep these fears on).  
 However, there are some other type of fears I do want to get rid off (but afraid to do so).  
 
-It really seams to be the rabit hole...  
+It really seems to be the rabit hole...  
 ...because the difference between "the fear I want to keep" (i.e. defines me) and "the fear I want to overcome" seems to merge in the "what defines the experience of my life".  
