@@ -34,8 +34,8 @@ It seems the act of donation links to the act of overcoming fear.
 You may think (because I thought so) donation will make you fearless.  
 However, this may most likely be considered as a logical fallacy - A leading to B is not necessarily the same as B leading to A.  
 
-It seems logic doesn't have a precise answer to donation results to fearlessness.  
-The only thing left when it comes to donation leading to fearlessness - to believe. And I choose to go far with this - I choose to believe while no better option exists.    
+It seems logic doesn't have a precise answer to "donation results to fearlessness".  
+The only thing left when it comes to donation leading to fearlessness - to believe. I choose to believe while no better option exists.  
 
 So, the next question to myself is - how much fear do I want to have in my life?  
 The answer to the question determines how widely recognizable "win" I want to receive after letting my customer win with my help.  
