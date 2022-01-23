@@ -48,8 +48,8 @@ And that will be my "business plan" - to look for customers (i.e. assets) posesi
 
 #### My bucket list
 
-| Fear                    | Remedy        | Entity posesing the remedy to which I may help to win  |
-| ----------------------- |:-------------:| ------------------------------------------------------:|
-| Making this list open   | ?             | ?                                                      |
+| Fear                    | Remedy        | Entity posesing the remedy to which I may help to win  | What may I provide for the entity to win? |
+| ----------------------- |:-------------:| ------------------------------------------------------:| -----------------------------------------:|
+| Making this list open   | ?             | ?                                                      | ?                                         |
 
 TBD
