@@ -18,7 +18,7 @@ To be precise, it's the one who accepts the specifics I (may) have to offer and 
 
 When it comes to **public**, it's a hard matter to deal with again.  
 Why? The question is a very practical one - do I need to always be paid with "win" which is exchangable everywhere anytime?  
-And the ansswer is - not really. I need just a "win" I may exchange with the part of public I feel safe with enough.   
+And the ansswer is - not really. I need just a "win" I may exchange with the part of public I will feel safe with enough.   
 
 ### Safety  
 
