@@ -37,7 +37,7 @@ However, this may most likely be considered as a logical fallacy - A leading to 
 It seems logic doesn't have a precise answer to "donation results to fearlessness".  
 The only thing left when it comes to donation leading to fearlessness - to believe. I choose to believe while no better option exists.  
 
-So, the next question to myself is - how much fear do I want to get rid in my life? And how much do I want to keep?  
+So, the next question to myself is - how much fear do I want to get rid of in my life? And how much do I want to keep?  
 The answer to the question determines how widely recognizable "win" I want to receive after letting my customer win with my help.  
 
 I should probably define a circle of entities who would compensate (or even better - heal) my weaknesses in exchange to the "win".  
