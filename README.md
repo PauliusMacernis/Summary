@@ -44,12 +44,12 @@ I should probably define a circle of entities who would compensate (or even bett
 A smart person once said the target groups should contain 100 members.  
 
 Therefore, it seems I should make a list of fears (which will correspond to my weaknesses) and then cover it all up by 100 entities.  
-And that will be my "business plan" - to look for customers (i.e. assets) posesing a treatment for my weaknesses.  
+And that will be my "business plan" - to look for customers (i.e. assets) possessing a treatment for my weaknesses.  
 
 #### My bucket list
 
-| Fear                    | Remedy        | Entity posesing the remedy to which I may help to win  | What may I provide for the entity to win? |
-| ----------------------- |:-------------:| ------------------------------------------------------:| -----------------------------------------:|
-| Making this list open   | ?             | ?                                                      | ?                                         |
+| Fear                    | Remedy        | Entity possessing the remedy  | What may I provide for the entity to win? |
+| ----------------------- |:-------------:| -----------------------------:| -----------------------------------------:|
+| Making this list open   | ?             | ?                             | ?                                         |
 
 TBD
