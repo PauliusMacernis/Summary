@@ -14,11 +14,11 @@ For example, I did many personality tests in order to understand myself and so d
 However, this kind of approach may be good for a team member in life to find, but not for a client to find. 
 
 Yes, my **first** targeted user profile should be my customer - the one with whom we share "win-win".  
-To be precise, it's the one who accepts the specifics I (may) have to offer and returns the value I (may) know how to exchange in public.  
+To be precise, it's the one who accepts the specifics I (may) have to offer and returns the value which I (may) know how to exchange in public.  
 
 When it comes to **public**, it's a hard situation to deal with again.  
 Why? The question is a very practical one - do I need to always be paid with "win" which is exchangable everywhere anytime?  
-And the ansswer is - not really. I need just a "win" I may exchange with the part of public I feel safe with enough.  
+And the ansswer is - not really. I need just a "win" I may exchange with the part of public I feel safe with enough. It seems I want to self-realize with the most vital ones only.   
 
 ### Safety  
 
