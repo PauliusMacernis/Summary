@@ -40,7 +40,7 @@ The only thing what is left when it comes to donation leading to fearlessness - 
 So, the next question to myself is - how much fear do I want to have in my life?  
 The answer to the question determine how widely recognizible "win" I want to receive after letting my customer win with my help.  
 
-I should probably define a circle of entities (e.g. people) who would compensate (or even better - heal) my weaknesses in exchange to the "win".  
+I should probably define a circle of entities who would compensate (or even better - heal) my weaknesses in exchange to the "win".  
 A smart person once said the target groups should contain 100 members.  
 
 Therefore, it seems I should make a list of fears (which will correspond to my weaknesses) and then cover it all up by 100 entities.  
