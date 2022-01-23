@@ -9,7 +9,7 @@ I can't believe it takes soooo much effort to define a profile of users I would 
 I strongly believe we are all good people in general, but not all of us have been lucky enough to stay such for a life-long period.  
 Therefore, it's tough to describe you for targeting purpose now (I still believe in everyone of all).  
 
-There are many approaches on how to find you.  
+There are many approaches on how to define you.  
 For example, I did many personality tests in order to understand myself and so describe you as "a like-minded person".  
 However, this kind of approach may be good for a team member in life to find, but not for a customer to find. 
 
