@@ -1,6 +1,6 @@
 # Paulius Macernis
 
-> Say just urgent and important, otherwise - silence!
+> Say the urgent and important only, otherwise - silence!
 
 
 ## Targeted user profile - you?
