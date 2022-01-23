@@ -67,3 +67,6 @@ It really seems to be the rabit hole...
 
 But it seems the answer to all of this is to keep going with the evolution by building the experience on a sense of "what defines the experience of my life".  
 Which means one thing - getting rid of the fears I don't feel I wish to belong to first.  
+
+Actually, I do already see some of the fears are inevitable to change. Even if these define me now.  
+This simply means life is gonna change a lot one day. Who knows when. May be today.  
