@@ -56,17 +56,17 @@ And that will be my "business plan" - to look for customers (i.e. assets) posses
 
 ##### My bucket list: aftermath
 
-It seems I don't even want to overcome some of fears. It looks like some fears define me in the context of "this life".   
-The only wish I have with some of the fears I have - to evolute by being connected to these.  
+It seems I don't even want to overcome some of my fears. It looks like some fears define me in the context of "this life".   
+The only wish I have with some of the fears I have - to evolute by being connected to these.  
 
-It seems some fears are simply the extension of who I am and want to be (and I don't mind to keep these fears on).  
-However, there are some other type of fears I do want to get rid off (but afraid to do so).  
+It seems some fears are simply the extension of who I am and want to be (and I don't mind to keep these fears on).  
+However, there is another type of fear I do want to get rid of (but afraid to do so).  
 
-It really seems to be the rabit hole...  
-...because the difference between "the fear I want to keep" (i.e. defines me) and "the fear I want to overcome" seems to merge in the "what defines the experience of my life" moment.  
+It really seems to be the rabbit hole...  
+...because the difference between "the fear I want to keep" (i.e. defines me) and "the fear I want to overcome '' seems to merge in the "what defines the experience of my life" moment.  
 
-But it seems the answer to all of this is to keep going with the evolution by building the experience on a sense of "what defines the experience of my life".  
-Which means one thing - getting rid of the fears I don't feel I wish to belong to first.  
+But it seems the answer to all of this is to keep going with the evolution by building the experience on a sense of "what defines the experience of my life".  
+Which means one thing - getting rid of the fears I don't feel I wish to belong to first.  
 
-Actually, I do already see some of the fears are inevitable to change. Even if these define me now.  
-This simply means life is gonna change a lot one day. Who knows when. May be today.  
+Actually, I do already see some of the fears are inevitable to face. Even if these willingly define me now.  
+This simply means that life is gonna change a lot one day. Who knows when. May be today. This way donation of material would happen once and immediately.  
