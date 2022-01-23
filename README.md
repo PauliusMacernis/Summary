@@ -29,7 +29,7 @@ The question is - what am I afraid of in life?
 It's a hard question again due to the nature of our being - I am a body, a mind, a soul. Fear is a cross-layer phenomenon.  
 
 However, if I define and finally conquer the fears I have in each of the layer then I start to act with no need to receive the universal "win" back.
-It seems the act of donation is the act of a fearless being.  
+It seems the act of donation links to the act of overcoming the fear.  
 
 You may think (because I thought so) donation will make you fearless.  
 However, this may most likely be considered as a logical falacity - A leading to B is not neccesseraly the same as B leading to A.  
