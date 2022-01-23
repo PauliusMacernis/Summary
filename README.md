@@ -50,6 +50,6 @@ And that will be my "business plan" - to look for customers (i.e. assets) posesi
 
 | Fear                    | Remedy        | Entity posesing the remedy to which I may help to win  |
 | ----------------------- |:-------------:| ------------------------------------------------------:|
-| Making this list public | ?             | ?                                                      |
+| Making this list open   | ?             | ?                                                      |
 
 TBD
