@@ -76,6 +76,9 @@ You should accept others. Even if they lie. Reciprocity is not the one and only 
   - **Responsibility to stay free**  
 Expect the best, prepare for the worst. It's posible to procrastinate or enjoy the glorious moment of now, but please act accrdingly and prepare for the ones you attached the most to sink down unexpectedly anytime. Be prepared to attach and detach on-demand.  
 
+  - **Lead by example**  
+Don't judge. Lead by example and the surroundings will improve organically. If surroundings do not improve after the examples you provide then... is it possible you yourself need to improve sometimes? ;)   
+
 
 
 ## I am not perfect.  
