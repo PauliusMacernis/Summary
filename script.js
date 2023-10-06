@@ -86,6 +86,23 @@ function lerpColor(a, b, amount) {
     return '#' + Math.round(rr).toString(16) + Math.round(rg).toString(16) + Math.round(rb).toString(16);
 }
 
+function updateSolarIcon() {
+    const times = SunCalc.getTimes(new Date(), VILNIUS_LAT, VILNIUS_LNG);
+    const now = new Date();
+
+    const solarIconSpan = document.getElementById('solar-icon');
+
+    if (now >= times.sunriseEnd && now <= times.sunsetStart) {
+        solarIconSpan.textContent = '☀️';  // Daytime
+    } else if (now >= times.sunrise && now <= times.sunriseEnd) {
+        solarIconSpan.textContent = '🌄';  // Sunrise
+    } else if (now >= times.sunsetStart && now <= times.sunset) {
+        solarIconSpan.textContent = '🌆';  // Sunset
+    } else {
+        solarIconSpan.textContent = '🌙';  // Night
+    }
+}
+
 function updateCurrentTime() {
     const vilniusTime = new Date().toLocaleTimeString('en-US', {timeZone: 'Europe/Vilnius', hour12: false, hour: '2-digit', minute: '2-digit', second: '2-digit'});
 
@@ -96,6 +113,8 @@ function updateCurrentTime() {
     }
 
     document.getElementById('current-time').innerText = `${hour}:${minute}:${second}`;
+
+    updateSolarIcon();
 }
 
 setInterval(updateCurrentTime, 1000); // Update the time every second
