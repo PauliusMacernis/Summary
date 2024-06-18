@@ -1,5 +1,5 @@
 const loadingBar = document.querySelector('.loading-bar');
-const dropdown = document.getElementById('breathingTechnique');
+// const dropdown = document.getElementById('breathingTechnique');
 const breathingText = document.querySelector('.breathing-text');
 
 let breatheInTime = 4000;
@@ -7,47 +7,58 @@ let holdAfterInhaleTime = 4000;
 let breatheOutTime = 4000;
 let holdAfterExhaleTime = 4000;
 
-function updateBreathing() {
-    if (dropdown.value === 'wimhof') {
-        breatheInTime = 2000;
-        holdAfterInhaleTime = 0; // No hold in Wim Hofman Technique after inhale
-        breatheOutTime = 4000;
-        holdAfterExhaleTime = 0; // No hold in Wim Hofman Technique after exhale
-    } else {
-        breatheInTime = 4000;
-        holdAfterInhaleTime = 4000;
-        breatheOutTime = 4000;
-        holdAfterExhaleTime = 4000;
-    }
-    breathe();
-}
+// function updateBreathing() {
+//     // if (dropdown.value === 'wimhof') {
+//     //     breatheInTime = 2000;
+//     //     holdAfterInhaleTime = 0; // No hold in Wim Hofman Technique after inhale
+//     //     breatheOutTime = 4000;
+//     //     holdAfterExhaleTime = 0; // No hold in Wim Hofman Technique after exhale
+//     // } else {
+//         breatheInTime = 4000;
+//         holdAfterInhaleTime = 4000;
+//         breatheOutTime = 4000;
+//         holdAfterExhaleTime = 4000;
+//     // }
+//     breathe();
+// }
 
 function breathe() {
-    breathingText.innerText = 'Inhale';
-    loadingBar.style.transition = `width ${breatheInTime}ms linear`;
-    loadingBar.style.width = '100%';
+    // Update CSS Variables for transition times
+    document.documentElement.style.setProperty('--breatheInTime', `${breatheInTime}ms`);
+    document.documentElement.style.setProperty('--breatheOutTime', `${breatheOutTime}ms`);
+    breathingText.innerText = 'Hold';
+    loadingBar.className = 'loading-bar hold-empty';
 
+    // Breathe in
+    setTimeout(() => {
+        breathingText.innerText = 'Inhale';
+        loadingBar.className = 'loading-bar breath-in';
+    }, 0); // Start inhaling after the initial hold
+
+    // Hold after inhale
     setTimeout(() => {
         breathingText.innerText = 'Hold';
-        loadingBar.style.transition = 'none'; // No change in width during hold
+        loadingBar.className = 'loading-bar hold-full';
     }, breatheInTime);
 
+    // Breathe out
     setTimeout(() => {
         breathingText.innerText = 'Exhale';
-        loadingBar.style.transition = `width ${breatheOutTime}ms linear`;
-        loadingBar.style.width = '0%';
+        loadingBar.className = 'loading-bar breath-out';
     }, breatheInTime + holdAfterInhaleTime);
 
+    // Hold after exhale
     setTimeout(() => {
         breathingText.innerText = 'Hold';
-        loadingBar.style.transition = 'none'; // No change in width during hold
+        loadingBar.className = 'loading-bar hold-empty';
     }, breatheInTime + holdAfterInhaleTime + breatheOutTime);
 
+    // Schedule the next breathe cycle to start after the current one finishes
     setTimeout(breathe, breatheInTime + holdAfterInhaleTime + breatheOutTime + holdAfterExhaleTime);
 }
 
 
-dropdown.addEventListener('change', updateBreathing);
+// dropdown.addEventListener('change', updateBreathing);
 
 const VILNIUS_LAT = 54.6872;
 const VILNIUS_LNG = 25.2797;
@@ -120,5 +131,14 @@ function updateCurrentTime() {
 setInterval(updateCurrentTime, 1000); // Update the time every second
 
 adjustBackgroundColor();
-updateBreathing();
+// updateBreathing();
 
+
+// Set the initial text
+// breathingText.innerText = 'Hold';
+
+// Set the initial class of the loading bar to hold-empty
+// loadingBar.className = 'loading-bar hold-empty';
+
+// Start the breathing cycle
+breathe();

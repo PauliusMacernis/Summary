@@ -1,41 +1,96 @@
+:root {
+    --primary-color: #3498db; /* Blue */
+    --primary-light-color: #5dade2; /* Lighter shade of blue */
+    --primary-dark-color: #2980b9; /* Darker shade of blue */
+    --text-on-primary: #ffffff; /* White for text on blue background */
+    --surface-color: #ffffff; /* White background for app content */
+    --error-color: #e74c3c; /* Red for error messages */
+    --text-primary-on-background: #212121; /* Dark gray for primary text on light backgrounds */
+    --text-secondary-on-background: #737373; /* Light gray for secondary text on light backgrounds */
+    --divider-color: #e0e0e0; /* Light gray for dividers */
+}
+
 body {
     font-family: 'Roboto', sans-serif;
-    color: #333;
+    color: var(--text-primary-on-background);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh; /* Change to min-height to allow content to expand */
     margin: 0;
     transition: background-color 1s ease;
+    background: var(--surface-color);
+    padding: 20px; /* Add some padding */
+    box-sizing: border-box; /* Ensure padding is included in width calculations */
+    overflow-y: auto; /* Allow vertical scrolling */
 }
 
 .container {
     text-align: center;
     width: 80%;
-    background: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
-    padding: 40px 20px;  /* Increased padding */
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-    border-radius: 15px;
+    max-width: 1200px; /* Set a max-width to prevent the container from becoming too wide on large screens */
+    background: var(--surface-color);
+    padding: 40px 20px;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    margin-bottom: 40px; /* Add some margin at the bottom */
 }
+
+@media (max-width: 768px) {
+    .container {
+        width: 95%; /* Allow more space on the sides on smaller screens */
+        padding: 20px; /* Reduce padding on smaller screens */
+    }
+
+    .cards-section {
+        grid-template-columns: 1fr; /* Stack cards on smaller screens */
+    }
+}
+
 
 h1 {
     margin-top: 0;
     font-weight: 500;
     font-size: 1.5em;
     letter-spacing: 1px;
-    color: #2C3E50;
-    text-transform: uppercase;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
-    margin-bottom: 20px;  /* Additional space below */
+    color: var(--primary-color); /* Use primary color for important text */
+    margin-bottom: 5rem;
+}
+
+.intro {
+    font-size: 0.9em;
+    color: var(--text-secondary-on-background); /* Use secondary text color for less important text */
+    margin-bottom: 60px;
+    text-shadow: 2px 1px 20px rgba(0,0,0,0.1)
+}
+
+.footer-section {
+    margin-top: 40px;
+    font-size: 0.9em;
+    border-top: 1px solid var(--divider-color); /* Use divider color for lines and borders */
+    padding-top: 30px;
+}
+
+.info-section, .links-section {
+    margin-bottom: 30px;
+}
+
+.links-section a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.links-section a:hover {
+    text-decoration: underline;
 }
 
 .breathing {
-    margin: 40px 0 20px;  /* Adjusted space around the breathing section */
+    margin: 5rem 0 3rem;
 }
 
 .loading-bar {
     height: 10px;
-    background: linear-gradient(to right, #2C3E50, #3498DB);
+    background: linear-gradient(to right, var(--primary-dark-color), var(--primary-light-color)); /* Use primary color gradients for progress bars */
     transition: all 1s;
     border-radius: 5px;
 }
@@ -43,33 +98,218 @@ h1 {
 .breathing-text {
     margin-top: 10px;
     font-weight: bold;
+    color: var(--text-primary-on-background);
 }
+
+.links-section a {
+    position: relative;
+    overflow: hidden;
+    transition: background-color 0.3s;
+}
+
+.links-section a::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 100%;
+    transform: translate(-50%, -50%);
+    transition: width 0.5s, height 0.5s;
+}
+
+.links-section a:hover::before {
+    width: 200%;
+    height: 200%;
+}
+
+
+.cards-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Creates a responsive grid */
+    gap: 20px; /* Space between cards */
+    padding: 20px; /* Padding around the whole grid */
+}
+
+.card {
+    background: var(--surface-color);
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2); /* Shadow for depth */
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px); /* Slight lift effect on hover */
+}
+
+.card h3 {
+    padding: 16px;
+    margin: 0;
+    background-color: var(--primary-color);
+    color: var(--text-on-primary);
+    border-radius: 4px 4px 0 0; /* Only round the top corners */
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.card-content a {
+    /*display: block; !* Makes the links block elements so they're easier to click *!*/
+    margin: 5px 0;
+    color: var(--primary-dark-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+    padding: 0.125rem;
+}
+
+.card-content a:hover {
+    color: var(--primary-light-color);
+}
+
+/* Style for external link icons */
+.external-link-icon {
+    display: inline-block;
+    margin-left: 8px;
+}
+
+
 
 #breathingTechnique {
     margin-bottom: 30px;  /* Increased space below the dropdown */
 }
 
-p {
-    font-size: 0.9em;
-    margin-bottom: 60px;  /* Increased space below the paragraph */
+.breathing .loading-bar {
+    width: 0%;
+    height: 10px;
+    background: linear-gradient(to right, #2C3E50, #3498DB);
+    border-radius: 5px;
 }
 
-.footer-section {
-    margin-top: 40px;
-    font-size: 0.9em;
-    border-top: 1px solid #eaeaea;
-    padding-top: 30px;  /* Increased padding at the top of the footer */
+
+.breathing .loading-bar.breath-in {
+    width: 100%;
+    transition: width var(--breatheInTime) linear;
 }
 
-.info-section, .links-section {
-    margin-bottom: 30px;  /* Adjusted space between footer sections */
+.breathing .loading-bar.hold-full {
+    width: 100%; /* Explicitly define width for hold-full */
+    transition: none; /* No transition for holding */
 }
 
-.links-section a {
-    color: #3498DB;
+.breathing .loading-bar.breath-out {
+    width: 0%;
+    transition: width var(--breatheOutTime) linear;
+}
+
+.breathing .loading-bar.hold-empty {
+    width: 0%; /* Explicitly define width for hold-empty */
+    transition: none; /* No transition for holding */
+}
+
+
+
+.link-list {
+    /*list-style-type: none; !* Removes the default list style *!*/
+    /*padding: 0; !* Removes the default padding *!*/
+    /*margin: 0; !* Removes the default margin *!*/
+    /*display: flex; !* Displays the list items inline *!*/
+    /*flex-wrap: wrap; !* Allows the list items to wrap on smaller screens *!*/
+    /*gap: 10px; !* Adds space between list items *!*/
+    text-align: left;
+}
+
+.link-list li {
+    /* Style for the list items */
+}
+
+.link-list a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.link-list a:hover {
+    text-decoration: underline;
+    color: var(--primary-light-color);
+}
+
+.phone {
+    color: inherit; /* Makes the color the same as the surrounding text */
+    text-decoration: none; /* Removes the underline */
+    /*cursor: default; !* Shows the default cursor instead of the pointer *!*/
+}
+
+.phone:hover {
+    color: inherit; /* Optional: Change color on hover if desired */
+}
+
+
+
+#thoughts svg:hover, #actions svg:hover {
+    -webkit-filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+    filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+    /* Similar syntax to box-shadow */
+}
+
+#thoughts svg, #actions svg {
+    max-width: 3rem;
+    max-height: 3rem;
+    /*display: block;*/
+}
+
+#thoughts a, #actions a {
+    display: inline-block;
+}
+
+/* Sparky Visions */
+#sparky-visions {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    /*margin: 20px;*/
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+#sparky-visions h3 {
+    margin: 0 0 10px 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: yellow;
+}
+
+.card-content {
+    line-height: 1.5;
+}
+
+.link-list {
+    list-style: none;
+    padding: 0;
+}
+
+.link-list li {
+    margin-bottom: 10px;
+}
+
+.link-list a {
+    color: #0077cc;
     text-decoration: none;
 }
 
-.links-section a:hover {
+.link-list a:hover {
+    color: #005580;
     text-decoration: underline;
+}
+
+
+#actions h3 {
+    color: #2C3E50;
+}
+
+#results h3 {
+    text-decoration: underline;
+    background-color: #e74c3c;
 }
